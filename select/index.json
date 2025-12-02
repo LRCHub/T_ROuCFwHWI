@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Morgana (M@STER VERSION)",
+  "base_artist": "大石泉 (大木咲絵子), 八神マキノ (二ノ宮ゆい), 浅利七海 (井上ほの花)",
+  "createdAt": "2025-12-02T12:09:17.968241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Morgana (M@STER VERSION)",
+      "artist": "大石泉（CV:大木咲絵子）、八神マキノ（CV:二ノ宮ゆい）、浅利七海（CV:井上ほの花）",
+      "has_synced": true,
+      "path": "select/01_Morgana_(M@STER_VERSION)_大石泉(CV_大木咲絵子)、八神マキノ(CV_二ノ宮ゆい)、浅利七海(CV_井上ほの花).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Morgana (M@STER VERSION)",
+      "artist": "大石泉(CV:大木咲絵子)、八神マキノ(CV:二ノ宮ゆい)、浅利七海(CV:井上ほの花)",
+      "has_synced": false,
+      "path": "select/pl_01_Morgana_(M@STER_VERSION)_大石泉(CV_大木咲絵子)、八神マキノ(CV_二ノ宮ゆい)、浅利七海(CV_井上ほの花).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Morgana (M@STER VERSION) (大石泉ソロ・リミックス)",
+      "artist": "大石泉(CV:大木咲絵子)、八神マキノ(CV:二ノ宮ゆい)、浅利七海(CV:井上ほの花)",
+      "has_synced": false,
+      "path": "select/pl_02_Morgana_(M@STER_VERSION)_(大石泉ソロ・リミックス)_大石泉(CV_大木咲絵子)、八神マキノ(CV_二ノ宮ゆい)、浅利七海(CV_井上ほの花).txt"
+    }
+  ]
+}
